@@ -2,6 +2,11 @@
 
 ^^
 
+
+## Do you need help?
+
+- [@henrik - tmux_cheatsheet.markdown](https://gist.github.com/henrik/1967800)
+
 ## Remote add files
 
 Become a hacker with `curl`and `git` only.
