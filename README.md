@@ -6,6 +6,7 @@
 ## Do you need help?
 
 - [@henrik - tmux_cheatsheet.markdown](https://gist.github.com/henrik/1967800)
+- https://github.com/ryanoasis/nerd-fonts
 
 ## Remote add files
 

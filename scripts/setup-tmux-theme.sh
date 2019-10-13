@@ -7,10 +7,6 @@ if ! [[ -d ~/.tmux/plugins/tpm ]]; then
     git clone --depth 1 https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm
 fi
 
-# Add tmux config file
-rm -f ~/.tmux.conf
-ln -s ${DOTFILES_DIR}/.tmux.conf ~/.tmux.conf
-
 # Nord theme
 if ! [[ -d ~/.tmux/themes/nord-tmux ]]; then
     git clone --depth 1 https://github.com/arcticicestudio/nord-tmux ~/.tmux/themes/nord-tmux
